@@ -1,5 +1,5 @@
 <?php
-require 'includes/db.php';
+require 'db.php';
 session_start();
 
 // Fetch all menu items
